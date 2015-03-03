@@ -7,8 +7,6 @@ public class Starter
 	{
 
 		Kunde kunde1 = new Kunde("Finke Getränke KG");
-		Kunde kunde2 = new Kunde("Toom Getränkemarkt");
-		Kunde kunde4 = new Kunde("Test");
 
 		Getränk getraenk1 = new Getränk("Coca light, 0,3l", 500, 1.10);
 		Getränk getraenk2 = new Getränk("Lemonlimoande, 0,3l", 500, 0.90);
