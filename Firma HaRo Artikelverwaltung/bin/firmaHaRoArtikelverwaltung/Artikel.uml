@@ -1,0 +1,95 @@
+[Files]
+File0=Artikel.java
+File1=Artikelverwaltung.java
+File2=Einzelteile.java
+File3=Erzeugnisse.java
+File4=Handelswaren.java
+File5=Rohstoffe.java
+File6=Verkaufsware.java
+
+[Box:  - firmaHaRoArtikelverwaltung.Artikel]
+X=50
+Y=225
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - firmaHaRoArtikelverwaltung.Artikelverwaltung]
+X=1720
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - firmaHaRoArtikelverwaltung.Einzelteile]
+X=801
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - firmaHaRoArtikelverwaltung.Erzeugnisse]
+X=397
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - firmaHaRoArtikelverwaltung.Handelswaren]
+X=20
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - firmaHaRoArtikelverwaltung.Rohstoffe]
+X=2120
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Box:  - firmaHaRoArtikelverwaltung.Verkaufsware]
+X=1205
+Y=40
+MinVis=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+FontSize=10
+FontName=MS Sans Serif
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=2
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=MS Sans Serif
+Fontsize=10
+ShowObjectDiagram=0
+
+[Interactive]
+I0=
+

@@ -1,0 +1,6 @@
+Hallo Herr Schanz,
+hier ein bisschen Text zum Testen für Sie.
+Die Sprache Java Programmieren lernen – das ist eigentlich gar nicht so schwer.
+Ein bisschen mathematisches Grundverständnis sollte man für das Programmieren mitbringen
+und und die Fähigkeit, abstrakt denken zu können. Dann steht Ihrem Erfolg beim Erlernen 
+der Programmiersprache Java eigentlich nichts mehr im Weg. Viel Spaß!
