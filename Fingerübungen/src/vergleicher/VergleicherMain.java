@@ -5,12 +5,12 @@ public class VergleicherMain
 {
 	
 	//Methode, die zwei gleichlange Arrays vergleicht
-	//Wenn gleich wird 0 zurückgegeben, ansonsten die Position
+	//Wenn gleich wird 0 zurï¿½ckgegeben, ansonsten die Position
 	public static int vergleicher(int A[],int B[])
 	{
-		int returnValue=0; //Wert der zurückgegeben wird
+		int returnValue=0; //Wert der zurï¿½ckgegeben wird
 		
-		for(int i=0;i<A.length;i++) // Kontrukt prüft Array auf Ungleichheit
+		for(int i=0;i<A.length;i++) // Kontrukt prï¿½ft Array auf Ungleichheit
 		{
 			if (A[i]!=B[i])
 			{
@@ -21,7 +21,7 @@ public class VergleicherMain
 		
 		
 		
-		return returnValue; //Rückgabewert
+		return returnValue; //Rï¿½ckgabewert
 	}
 	
 	
@@ -30,10 +30,10 @@ public class VergleicherMain
 		//Arrays die verglichen werden
 		int A[]={10,20,30,40,50,60,70,80,90,100};
 		int B[]={10,20,30,40,50,60,70,80,90,100};
+		System.out.println("Servus");
 		
 		
-		
-		System.out.println(vergleicher(A,B)); // Methodenaufruf mit Ausgabe des Rückgabewertes
+		System.out.println(vergleicher(A,B)); // Methodenaufruf mit Ausgabe des Rï¿½ckgabewertes
 
 	}
 
