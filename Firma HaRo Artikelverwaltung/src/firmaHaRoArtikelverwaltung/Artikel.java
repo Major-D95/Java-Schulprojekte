@@ -8,7 +8,7 @@ abstract class Artikel {
   private double artikelnummer;
   private String bezeichnung;
   private double lagerbestand;
-  private static int Artikelz‰hler=0;
+  private static int Artikelz√§hler=0;
   //Ende Attribute
   
   //Scannerklasse
@@ -18,8 +18,8 @@ abstract class Artikel {
   //Anfang Konstruktor
   public Artikel()
   {
-	  Artikelz‰hler++;
-	  System.out.println("Artikeleingabe Nr."+Artikelz‰hler+" gestartet");
+	  Artikelz√§hler++;
+	  System.out.println("Artikeleingabe Nr."+Artikelz√§hler+" gestartet");
 	  System.out.println();
 	  System.out.print("Bitte geben Sie die Bezeichnung des Artikels ein: ");
 	  bezeichnung=eingabe.next();
@@ -57,9 +57,9 @@ abstract class Artikel {
     return lagerbestand;
   }
   
-  public static int getArtikelz‰hler()
+  public static int getArtikelz√§hler()
   {
-	  return Artikelz‰hler;
+	  return Artikelz√§hler;
   }
 
   // Ende Setter/Getter Methoden

@@ -31,7 +31,7 @@ public class VergleicherMain
 		int A[]={10,20,30,40,50,60,70,80,90,100};
 		int B[]={10,20,30,40,50,60,70,80,90,100};
 		System.out.println("Servus");
-		
+		System.out.println(A[3]);
 		
 		System.out.println(vergleicher(A,B)); // Methodenaufruf mit Ausgabe des R�ckgabewertes
 

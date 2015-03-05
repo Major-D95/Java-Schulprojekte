@@ -184,7 +184,7 @@ public class MainFrame
 					}
 					
 				}
-				JOptionPane.showMessageDialog(null, "Es sind "+ueber0+" Funktionswerte über 0");
+				JOptionPane.showMessageDialog(null, "Es sind "+ueber0+" Funktionswerte ï¿½ber 0");
 				
 			}
 		});
@@ -265,20 +265,20 @@ public class MainFrame
 				
 				int nullstelle=variB/variM;
 				
-				int Fläche = (variB*nullstelle)/2;
+				int FlÃ¤che = (variB*nullstelle)/2;
 		
 				int dreieck2= variEndwert-nullstelle;
 				
 				funktionswerteAuslesen(variM,variB,funktionswerteArray);
 				
-				int dreieckhöchsteKoordinate=funktionswerteArray[variEndwert-1];
+				int dreieckhÃ¶chsteKoordinate=funktionswerteArray[variEndwert-1];
 				
-				int Fläche2=(dreieckhöchsteKoordinate*dreieck2)/2;
+				int FlÃ¤che2=(dreieckhÃ¶chsteKoordinate*dreieck2)/2;
 				
-				int Flächeninhalt=Fläche+Fläche2;
+				int FlÃ¤cheninhalt=FlÃ¤che+FlÃ¤che2;
 				
 				
-				JOptionPane.showMessageDialog(null,"Der Flächeninhalt beträgt: "+Flächeninhalt+"cm²");
+				JOptionPane.showMessageDialog(null,"Der FlÃ¤cheninhalt betrÃ¤gt: "+FlÃ¤cheninhalt+"cmï¿½");
 				
 			}
 		});
@@ -345,7 +345,7 @@ public class MainFrame
 					}
 					catch(java.lang.NumberFormatException e)
 					{
-						JOptionPane.showMessageDialog(null, "Bitte füllen sie alle Felder korrekt aus");
+						JOptionPane.showMessageDialog(null, "Bitte fï¿½llen sie alle Felder korrekt aus");
 					}
 				
 				

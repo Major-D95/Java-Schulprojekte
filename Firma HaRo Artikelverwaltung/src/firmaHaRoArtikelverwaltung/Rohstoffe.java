@@ -22,7 +22,7 @@ public class Rohstoffe extends Artikel {
 	  System.out.print("Bitte geben Sie den Einkaufspreis des Artikels ein: ");
 	  einkaufspreis=eingabe.nextDouble();
 	  System.out.println();
-	  System.out.println("---Ende der Artikeleingabe Nr."+getArtikelz‰hler()+"---");
+	  System.out.println("---Ende der Artikeleingabe Nr."+getArtikelz√§hler()+"---");
 	  System.out.println();
   }
   

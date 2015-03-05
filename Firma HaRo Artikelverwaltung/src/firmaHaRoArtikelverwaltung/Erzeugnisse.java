@@ -22,7 +22,7 @@ public class Erzeugnisse extends Verkaufsware {
 	  System.out.print("Bitte geben Sie die Herstellungskosten des Artikels ein: ");
 	  herstellungskosten=eingabe.nextDouble();
 	  System.out.println();
-	  System.out.println("---Ende der Artikeleingabe Nr."+getArtikelz‰hler()+"---");
+	  System.out.println("---Ende der Artikeleingabe Nr."+getArtikelz√§hler()+"---");
 	  System.out.println();
   }
   //Ende Konstruktor

@@ -21,7 +21,7 @@ public class Main
 		
 		System.out.println(hi.toString());
 		
-		System.out.println(test+test2);
+		System.out.println();
 
 	}
 

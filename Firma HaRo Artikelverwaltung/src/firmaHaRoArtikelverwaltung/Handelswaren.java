@@ -33,7 +33,7 @@ public class Handelswaren extends Verkaufsware {
 	  mehrwertsteuerBerechnung();
 			  
 	  System.out.println();
-	  System.out.println("---Ende der Artikeleingabe Nr."+getArtikelz‰hler()+"---");
+	  System.out.println("---Ende der Artikeleingabe Nr."+getArtikelz√§hler()+"---");
 	  System.out.println();
 	 
   }

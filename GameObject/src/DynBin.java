@@ -8,7 +8,7 @@ public class DynBin
 		Room rr = new Room();
 		rr.name = "Affenhaus1";
 		rr.size = 7349944;
-		System.out.println(rr.)
+		System.out.println();
 		
 
 	}
